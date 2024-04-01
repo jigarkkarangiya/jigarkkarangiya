@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://img001.prntscr.com/file/img001/ADMYUqMjTjKPaOgE8c1C0g.png" width="400" alt="Jigar Karangiya - Repository Logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="https://img001.prntscr.com/file/img001/ADMYUqMjTjKPaOgE8c1C0g.png" width="400" alt="Jigar Karangiya - Repository Logo"></a></p>
 
 - 👋 Hi, I’m @jigarkkarangiya
 - 👀 I’m interested in coding and website development...
